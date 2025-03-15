@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  bio              : "Short biography for the left-hand sidebar"
-  employer         : "Red Brick University"
+  name             : "Julian Schumacher"
+  bio              : "Economist @ECB. This is my personal website. All views are my own and do not represent the views pf the ECB or the Eurosystem."
+  employer         : "Europen Central Bank"
   uri              : # URL
   email            : "none@example.org" 
 
