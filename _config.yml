@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : # "Julian Schumacher"
+title                    : "Julian Schumacher"
 title_separator          : "-"
-name                     : &name "Julian Schumacher"
+name                     : # &name "Julian Schumacher"
 description              : &description "personal description"
 url                      : https://juschuma.github.io # the base hostname & protocol for your site e.g. "https://juschuma.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
