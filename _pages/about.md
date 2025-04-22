@@ -17,3 +17,4 @@ News
 ------
 My paper on "_Central bank liquidity reallocation and bank lending: Evidence from the tiering system_" (with Carlo Altavilla, Miguel Boucinha, Lorenzo Burlon, and Mariassunta Giannetti) has been published in the **Journal of Financial Economics** (https://www.sciencedirect.com/science/article/pii/S0304405X25000662)
 
+New working paper "_When banks hold back: credit and liquidity provision_" with Carlo Altavilla and Massimo Rostagno (https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3009)
