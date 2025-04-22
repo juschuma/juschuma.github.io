@@ -15,5 +15,5 @@ My main research interests are international finance, monetary policy, and law a
 
 News
 ------
-My paper on "Central bank liquidity reallocation and bank lending: Evidence from the tiering system" (with Carlo Altavilla, Miguel Boucinha, Lorenzo Burlon, and Mariassunta Giannetti) has been published in the **Journal of Financial Economics** (https://www.sciencedirect.com/science/article/pii/S0304405X25000662)
+My paper on "_Central bank liquidity reallocation and bank lending: Evidence from the tiering system_" (with Carlo Altavilla, Miguel Boucinha, Lorenzo Burlon, and Mariassunta Giannetti) has been published in the **Journal of Financial Economics** (https://www.sciencedirect.com/science/article/pii/S0304405X25000662)
 
