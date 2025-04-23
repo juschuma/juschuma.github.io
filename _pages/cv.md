@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
   
-Please find my current CV [here](https://github.com/user-attachments/files/19863477/CV_Website.pdf).
+Please find my current CV [here](https://github.com/user-attachments/files/19863477/CV_Website.pdf) (April 2025).
