@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Please find my current CV here: CV_Website.pdf 
 
