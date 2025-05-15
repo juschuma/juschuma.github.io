@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-I am a Lead Economist in the Monetary Policy Stragegy Division at the European Central Bank.
+I am a Lead Economist in the Monetary Policy Strategy Division at the European Central Bank.
 
 My main research interests are international finance, monetary policy, and law and economics. Before joining the ECB, I received a PhD in Economics from Humboldt University Berlin.
 
