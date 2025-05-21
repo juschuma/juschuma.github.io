@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://juschuma.github.io/sitemap.xml
